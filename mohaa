@@ -13,6 +13,7 @@ const number = prompt("insert your number: ");
 
 if(number % 2 == 0) {
     document.write("the number is even.");
+    document.write("and also workable");
 }
 
 
